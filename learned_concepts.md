@@ -32,3 +32,11 @@ doesn't excute
 2. range is a class, its own datastype 
 3. Iterables : range , tuples, string, list, dictionary, sets, generator
 
+## Week 2
+
+### Monday
+1. using git, create a ignor folder
+2. using tuples
+3. conditions in loops
+4. conditional statements \\ this one is floor division
+5. is or is not checks the identiny of objects
